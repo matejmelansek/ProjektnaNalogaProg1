@@ -16,4 +16,4 @@ Analiziral bom vse igralce iz najboljših petih nogometnih lig v Evropi (Premier
 - najdražji igralci so Brazilci
 - LaLiga ima povprečno najnižje igralce
 - Serie A ima povprečno najstarejše igralce
-- delež nogometašev, ki so levičarji je večji kot delež levičarjev v splošni poplacij
+- delež nogometašev, ki so levičarji je večji kot delež levičarjev v splošni poplaciji
