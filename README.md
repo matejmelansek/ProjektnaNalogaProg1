@@ -1,6 +1,6 @@
 # ProjektnaNalogaProgramiranje1
 
-Analiziral bom vse igralce iz najboljših petih nogometnih lig v Evropi (Premier League, LaLiga, Bundesliga, Serie A, Ligue 1).Vir: [Transfermarkt](https://www.transfermarkt.com/)
+Analiziral bom vse igralce iz najboljših petih nogometnih lig v Evropi (Premier League, LaLiga, Bundesliga, Serie A, Ligue 1). Vir: [Transfermarkt](https://www.transfermarkt.com/)
 
 **Za vsakega igralca bom zajel:**
 
