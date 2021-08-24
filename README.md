@@ -20,5 +20,7 @@ Analiziral bom vse igralce iz najboljših petih nogometnih lig v Evropi (Premier
 - ne obstaja korelacija med igralčevo višino in njegovo tržno vrednostjo
 - v vsaki ligi je največji delež igralcev državljanov tiste države, ki gosti ligo
 
-**Navodila za uporabo:**
-Če želimo 
+
+**Navodila:**
+
+Dodana je CSV datoteka 27 nogometašev z vsemi podatki, ki jih bomo analizirali. Če želimo ponovno sneti podatke iz Transfermarkt-a, poženemo python program zbiranje_podatkov. Ta bo najprej poiskal vse povezave do Transfermarkt strani vsakega igralca v določeni ligi, ustvaril datoteko, katere ime je kratica lige in začel shranjevati html-je spletne strani vsakega igralca. Nato bo ponovno odprl shranjene datoteke in z regularnimi izrazi poiskal vse želene podatke, katere bo shranil v slovar. To bo ponovil za vse lige. Če smo program že kdaj zaganli in imamo shranjenih del html datotek, nam jih program ne bo ponovno shranjeval. Če programa še nismo nikoli zagnali, bo proces shranjevanja igralcev trajal nekoliko dlje časa. 
